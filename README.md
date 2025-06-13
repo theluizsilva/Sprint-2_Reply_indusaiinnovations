@@ -12,13 +12,12 @@
 
 ## 👨‍🎓 Integrantes e Responsabilidades:
 
-| Nome Completo                     | RM        | Responsabilidade Principal                                           |
-|----------------------------------|-----------|----------------------------------------------------------------------|
-| Daniele Antonieta Garisto Dias  | RM565106  | Coleta de dados com ESP32 e comunicação via MQTT                    |
-| Leandro Augusto Jardim da Cunha | RM561395  | Desenvolvimento do dashboard com Streamlit e relatórios gerenciais |
-| Luiz Eduardo da Silva           | RM561701  | Arquitetura da solução, documentação técnica e integração AWS       |
-| Vanessa Teles Paulino           | RM565180  | Organização do repositório, apoio à documentação e testes de dados |
-| João Victor Viana de Sousa      | RM565136  | Modelagem de Machine Learning e treinamento dos algoritmos         |
+| Nome Completo                     | RM        | Responsabilidade Principal                                                                 |
+|----------------------------------|-----------|----------------------------------------------------------------------------------------------|
+| Daniele Antonieta Garisto Dias  | RM565106  | Coleta de dados com ESP32, comunicação via MQTT e testes de dados                          |
+| Leandro Augusto Jardim da Cunha | RM561395  | Desenvolvimento do dashboard com Streamlit, relatórios gerenciais e organização do repositório |
+| Luiz Eduardo da Silva            | RM561701  | Arquitetura da solução, integração AWS e apoio à documentação técnica                      |
+| João Victor Viana de Sousa       | RM565136  | Modelagem de Machine Learning, treinamento dos algoritmos e apoio ao versionamento         |
 
 ---
 
